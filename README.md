@@ -7,8 +7,8 @@
 </div>
 <br/>
 <h2></h2>
-<li>대학생연합 IT벤처창업 동아리 <a href="https://github.com/NOW-SOPT-WEB/SeonghuiMoon">NOW-SOPT</a> • 34기 FE YB회원 <sub>(2024.03 ~ now)</sub></li>
-<li>42SEOUL • 9기 카뎃 <sub>(2023.03 ~ now)</sub></li>
+<li>대학생연합 IT벤처창업 동아리 <a href="https://www.sopt.org/">SOPT</a> • 34기 WEB FE Part <sub>(2024.03 ~ now)</sub></li>
+<li><a href="https://42seoul.kr/seoul42/main/view">42SEOUL</a> • 9기 카뎃 <sub>(2023.03 ~ now)</sub></li>
 <li>멋쟁이 사자처럼 세종대학교 • 11기 운영진 <sub>(2023.03 ~ 2023.12)</sub></li>
 <li> 세종대학교 지능기전공학부 스마트기기공학전공 <sub>(2019.03 ~ now)</sub></li>
 <br>
